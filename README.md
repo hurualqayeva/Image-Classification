@@ -1,2 +1,2 @@
 # Image-Classification
-Using Olivetti dataset I have tried to classify images with Kmeans
+Using Olivetti dataset I have classified images with Kmeans
